@@ -1,0 +1,110 @@
+body {
+    background-color: orangered;
+    text-align: center;
+    margin: 100px;
+}
+
+h1 {
+    color: peachpuff;
+}
+#contact h1 {
+    color: yellow;
+}
+p {
+    color: yellow;
+    font-size: 20px;
+    margin-left: 170px;
+    margin-right: 100px;
+    background-color: orangered;
+}
+
+img {
+    border-radius: 45px;
+    width: 600px;
+    height: 400px;
+}
+#contact img {
+    border-radius: 45px;
+    width: 700px;
+    height: 500px;
+}
+h2 {
+    color: yellow;
+    background-color: orangered;
+    font-size: 30px;
+}
+
+h2:hover {
+    font-size: 25px;
+}
+
+#mySchool img:hover {
+    width: 550px;
+    height: 350px;
+}
+
+h5 span {
+    color: yellow;
+}
+
+#schoolLife {
+    margin-top: 500px;
+}
+
+a h3 {
+    color: gold;
+    background: linear-gradient(red 0%, orange 100%);
+    font-size: 20px;
+
+}
+
+.menu {
+    list-style-image: url(https://tse3.mm.bing.net/th?id=OIP.qgjRrHgtprNHD-qdd2IBYgHaD1&pid=Api&P=0&w=187&h=15);
+    cursor: pointer;
+    top: 10;
+    left: -20;
+    position: fixed;
+    z-index: 10;
+    margin: inherit;
+    margin-left: 2.5%;
+}
+
+h3 hover {
+    font-size: 15px;
+}
+
+h5 {
+    font-size: 20px;
+    color: gold;
+    margin-bottom: 20px;
+}
+
+#shortIt {
+    margin-left: 10%;
+}
+
+#schoolLife img {
+    width: 30%
+}
+
+#noStar {
+    color: grey;
+}
+
+#contact {
+    margin-top: 500px;
+    margin-bottom: 100px;
+}
+
+#contact iframe {
+    border-radius: 45px;
+    margin-bottom: 50px;
+}
+
+#contact h5 {
+    font-size: 25px;
+}
+
+#videos {
+    margin-top: 500px;
+}
